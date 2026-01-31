@@ -15,138 +15,100 @@ Founder & CEO — Xavira Techlabs
 
 ---
 
-## For CTOs & Founders
+## About Me
 
-If you are responsible for a system where:
-- downtime is visible,
-- incorrect data is costly,
-- AI outputs must be trusted,
-- and architectural mistakes compound quickly,
+I’m a **backend-first senior software engineer** and **Toptal Top 3% developer** who builds, fixes, and owns **production systems**.
 
-this profile is written for you.
+I work on software where failures are expensive, data is unreliable, dependencies are flaky, and requirements change mid-flight. My focus is not just shipping code, but taking responsibility for what happens **after** it ships.
 
----
+I specialize in backend architecture, long-lived services, data and document pipelines, and AI-enabled systems that must behave predictably in production. I design for failure, observability, and maintainability from day one.
 
-## What I Do
-
-I design, build, and take responsibility for **backend systems that businesses depend on**.
-
-I’m a backend-first senior software engineer and a **Toptal Top 3% developer**.  
-I work on systems where correctness, operability, and long-term control matter more than speed alone.
-
-I don’t optimize for demos or short-term velocity.  
-I optimize for **trust, durability, and ownership**.
-
----
-
-## Why Teams Bring Me In
-
-Most teams reach out after something starts to hurt — or right before it does.
-
-Common situations:
-- the system technically works, but confidence is low
-- velocity is slowing due to accumulated complexity
-- AI features behave unpredictably in production
-- early architectural shortcuts are becoming expensive
-- senior ownership is fragmented or missing
-
-My role is to **restore control**:
-- clarify system boundaries
-- reduce unnecessary complexity
-- make behavior predictable
-- leave the system stable without heroics
+I don’t optimize for demos, buzzwords, or short-term velocity.  
+I optimize for **trust, durability, and control**.
 
 ---
 
 ## How I Use GitHub
 
-GitHub is not a portfolio.  
-It’s where systems evolve, fail, and stabilize.
+GitHub is my **engineering workspace**, not a portfolio.
 
-- architecture lives in commits
-- decisions live in diffs and PR discussions
-- fixes are deliberate, reviewed, and documented
-- repositories are treated as long-lived systems
-- most meaningful work is private (client & enterprise systems)
+- Architecture evolves through commits
+- Decisions live in PRs and diffs
+- Fixes are reviewed, intentional, and documented
+- Repositories are treated as long-lived systems
+- Most meaningful work lives in **private repositories**
 
-Public repositories reflect patterns, tooling, and thinking —  
-not the full surface area of responsibility.
+Public code reflects **patterns and thinking**, not the full scope of responsibility.
 
 ---
 
-## Postmortems I’ve Learned From
+## Core Technical Focus
 
-Experience is measured in failures understood.
+### Backend & Systems
+- Python, TypeScript, Java
+- Node.js, Django, FastAPI
+- REST APIs, service design, schema ownership
 
-Hard-earned lessons:
-- most outages originate at system boundaries
-- data issues cause more incidents than code bugs
-- silent failures are worse than crashes
-- “temporary” fixes last the longest
-- AI systems fail confidently and incorrectly
-- observability added late is usually added wrong
-- rewrites fail more often than incremental correction
-- the real cost of incidents is loss of trust
+### Data & Pipelines
+- PostgreSQL, MySQL, SQL Server
+- Document processing (PDF, OCR)
+- ETL / workflow orchestration
+- Data correctness and recovery
 
-Every system I design assumes bad input, partial failure, and future maintainers.
+### AI & Automation
+- LLM integrations
+- RAG pipelines
+- Validation, guardrails, observability
+- Failure-aware automation (no silent errors)
+
+### Infrastructure & Operations
+- Docker, CI/CD
+- Cloud (AWS, GCP, Azure, DigitalOcean)
+- Monitoring, logging, incident recovery
+
+> Tools change. Responsibility doesn’t.
 
 ---
 
 ## Systems I’ve Owned (Representative)
 
-I’ve owned systems with:
-- business-critical workflows
-- multi-team API consumers
-- zero tolerance for data loss
-- automation replacing manual or no-code processes
-- document & data pipelines handling unreliable input
-- AI components where correctness mattered more than novelty
+- Business-critical backend platforms  
+- APIs consumed by multiple teams  
+- Automation replacing fragile manual or no-code workflows  
+- Data pipelines with zero tolerance for corruption  
+- AI systems where correctness mattered more than novelty  
 
-Ownership included:
-architecture, schemas, API contracts, deployments, rollbacks, incident response, and long-term maintenance.
+Ownership included architecture, data models, deployments, rollbacks, incident response, and long-term maintenance.
 
 A system is successful when it becomes **boring to operate**.
 
 ---
 
+## Postmortems I’ve Learned From
+
+- Most outages happen at boundaries, not core logic  
+- Data issues cause more incidents than code bugs  
+- Silent failures are worse than crashes  
+- “Temporary” fixes live forever  
+- AI fails confidently and incorrectly  
+- Rewrites fail more often than incremental correction  
+- The real cost of incidents is loss of trust  
+
+Every system I design assumes bad input, partial failure, and future maintainers.
+
+---
+
 ## Xavira Techlabs — Founder Perspective
 
-I founded **Xavira Techlabs** to build software that continues to work after the excitement fades.
+I founded **Xavira Techlabs** to build software that **continues to work after the excitement fades**.
 
-We partner with startups and enterprises to:
-- fix fragile foundations
-- correct early architectural mistakes
-- stabilize production systems
-- build AI features that behave predictably
+We help startups and enterprises:
+- fix fragile foundations  
+- correct early architectural mistakes  
+- stabilize production systems  
+- build AI features that behave predictably  
 
-I stay hands-on where risk is highest:
-architecture, critical paths, reviews, and production readiness.
-
----
-
-## How Engagements Usually Work
-
-You should reach out if:
-- you need senior ownership, not just implementation
-- you want clarity before committing to a direction
-- your system is becoming harder to reason about
-- failure is getting more expensive over time
-
-I don’t promise speed.  
-I promise **judgment, stability, and direction**.
-
----
-
-## Engineering Biases
-
-- clarity over cleverness
-- simple over impressive
-- fewer services over premature microservices
-- explicit ownership over shared ambiguity
-- observability as a requirement
-- AI as an assistant, never a source of truth
-
-These opinions come from production, not theory.
+I stay hands-on where risk is highest: architecture, critical paths, reviews, and production readiness.
 
 ---
 
@@ -154,19 +116,10 @@ These opinions come from production, not theory.
 
 This profile is intentionally restrained.
 
-There are no flashy widgets or inflated metrics because they don’t correlate with judgment.
+There are no flashy widgets, activity graphs, or vanity metrics — because they don’t correlate with judgment.
 
 If you’re reading this and thinking:
 
 **“We can’t afford to get this wrong.”**
 
 Then we should talk.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/vishnuvardhanburri/">
-    <img src="https://img.shields.io/badge/Start%20a%20Conversation-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.toptal.com/developers/resume/vishnu-vardhan-burri">
-    <img src="https://img.shields.io/badge/Hire%20via%20Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white" />
-  </a>
-</p>
